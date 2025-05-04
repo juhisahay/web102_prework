@@ -16,11 +16,31 @@ body {
     align-items: center;
     margin-left: -10px;
     margin-right: -10px;
-    margin-top: -10px;
+    margin-top: -10px 
+    
+}
+
+#searchBar {
+    margin-left: auto;
+    border-radius: 7px;
+    height: 40px;
+    width: 300px;
+    border: hidden;
+}
+
+form {
+    margin-left: auto;
 }
 
 .stats-container {
     display: flex;
+    align-items: center;
+    overflow: auto;
+    cursor: pointer;
+}
+
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
@@ -40,6 +60,7 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
+    
 }
 
 .game-img {
@@ -64,6 +85,7 @@ body {
 
 #button-container {
     text-align: center;
+    
 }
 
 button {
@@ -72,4 +94,9 @@ button {
     padding: 1%;
     margin: 1%;
     border-radius: 7px;
+}
+
+button:hover {
+    background-color: gray;
+    cursor: pointer;
 }
