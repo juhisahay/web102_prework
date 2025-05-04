@@ -19,7 +19,7 @@ The following **optional** features are implemented:
 
 * [x] The unfunded games, only funded games, and all games buttons turn gray when hovered over.
 * [x] The mouse turns to pointer when the unfunded games, only funded games, and all games buttons are hovered over. 
-* [x] users can type a game in the search bar and the Our Games section displays it if the website stores information on the game. Otherwise, the Our Games Section appears blank. 
+* [x] Users can type a game in the search bar and the Our Games section displays it if the website stores information on the game. Otherwise, the Our Games Section appears blank. 
 
 
 ## Video Walkthrough
