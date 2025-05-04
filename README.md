@@ -41,6 +41,8 @@ GIF created with ...  https://www.screentogif.com/
 
 Describe any challenges encountered while building the app.
 
+Formatting elements of the DOM, i.e. the search bar, and positioning it correctly was a challenge while building the app. Learning how to use flexbox efficiently is future goal. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
